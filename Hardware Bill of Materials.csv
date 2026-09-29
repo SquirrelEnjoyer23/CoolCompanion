@@ -1,0 +1,21 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+Noctua Fan,1,$34.95,https://www.amazon.com/Noctua-NF-A12x25-5V-PWM-Premium/dp/B07DXQTCK6/,The fan that actually moves the air
+Usb C connector,1,$0.00,Already had,Usb C connector to recieve power
+Rotary Encoder,1,$0.00,Already had,Recieves input from user
+Screen,1,$19.19,https://www.amazon.com/waveshare-Resolution-Raspberry-forArduino-Communication/dp/B0CM3RHMGP/,Shows the current settings
+Perf board,1,$9.99,https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F,Main circuit board
+Esp32,1,$0.00,Already had,Does all the processing
+Wires,1,$7.98,https://www.amazon.com/Silicone-Electrical-Colors-Stranded-Flexible/dp/B08F79YG8Q/,Connects up everything electrically
+SHT31-D,1,$8.49,https://www.amazon.com/HiLetgo-Temperature-Humidity-Interface-GY-SHT31-D/dp/B07ZSZW92J/,Detects current temprature
+Screw set,1,$12.99,https://www.amazon.com/Fgruh-1080PCS-Assortment-Washers-Assorted/dp/B0GHVDC8GD/,M3 screws
+Longer screw set,1,$9.99,https://www.amazon.com/Bemaka-420PCS-Button-Washers-Assortment/dp/B0CSYHF18Z/,M3 screws since i needed longer ones
+Straws,1,$0.00,Already had,Hiding wires
+Hot glue,1,$0.00,Already had,Putting things together
+Shrink wrap,1,$1.00,Already had,Protecting wire connections
+Washers,1,$5.99,https://www.amazon.com/Washers-Assortment-Vibration-Absorbing-Plumbing/dp/B0DLL2DZK3/,Holding the fan in place
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$110.57,,,
